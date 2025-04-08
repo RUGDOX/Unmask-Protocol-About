@@ -1,9 +1,8 @@
 # Unmask-Protocol-About
 
+![22522092-DA5D-413B-9CA7-938816E357D9_1_201_a](https://github.com/user-attachments/assets/9d6996a6-27b9-4efb-b559-917df8e77cbd)
 
-![AA0D04E0-7E66-4CAE-A07B-E47029E6B202_1_105_c](https://github.com/user-attachments/assets/f993936a-df8a-4322-994b-414a953e3dc9)
-
-# Unmask Protocol Backend
+# Unmask Protocol: Backend
 
 A privacy-first,  complex and sophisticated multi-chain backend utilizing multiple modular developer SDK’s for the Unmask Protocol
 
