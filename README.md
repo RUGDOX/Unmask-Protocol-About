@@ -3,16 +3,16 @@
 
 ![AA0D04E0-7E66-4CAE-A07B-E47029E6B202_1_105_c](https://github.com/user-attachments/assets/f993936a-df8a-4322-994b-414a953e3dc9)
 
-## Unmask Protocol Backend
+# Unmask Protocol Backend
 
 A privacy-first,  complex and sophisticated multi-chain backend utilizing multiple modular developer SDK’s for the Unmask Protocol
 
-# Overview
+## Overview
 
 The Unmask Protocol backend is a complete security and identity verification platform for blockchain applications. It provides advanced fraud detection through Web3DNA fingerprinting, secure data vaulting, and an investigative workflow system with court-admissible chain of custody tracking for digital evidence.
 
 
-#Key Features
+## Key Features
 
 - Web3DNA Fingerprinting: Advanced device fingerprinting technology to detect and prevent fraud in blockchain applications (Web3DNA SDK)
 - Secure Data Vaulting: Protect sensitive user information with encrypted storage (Vault SDK)
@@ -28,7 +28,7 @@ The Unmask Protocol backend is a complete security and identity verification pla
 - Containerized Deployment: Easy deployment with Docker and Portainer support
 
 
-#Architecture
+## Architecture
 
 The Unmask Protocol backend follows a modular architecture with four main SDKs:
 
@@ -39,7 +39,7 @@ The Unmask Protocol backend follows a modular architecture with four main SDKs:
 
 All SDKs are framework-agnostic and can be used in any JavaScript environment (browser or Node.js). The SDKs are available through CDN for easy integration.
 
-#Important Note:  
+## Important Note:  
 All SDKs are currently under active development and are not ready for production use.  If you see this note still in a repo readme that mean that it is NOT considered stable.  
 #USE AT YOUR OWN RISK.
 Each SDK repo will state the status of that specific SDK.  Please refer to each SDK repo's issues and/or discussions area for updates.
