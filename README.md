@@ -1,7 +1,5 @@
-# Unmask-Protocol-About
 
 
-![image](https://github.com/user-attachments/assets/6d4099da-39fc-4d3c-8fc8-ad040b11a7b2)
 
 
 "An End-to-End Privacy-Focused Web3 Accountability Protocol"
