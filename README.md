@@ -2,10 +2,12 @@
 
 
 ![AA0D04E0-7E66-4CAE-A07B-E47029E6B202_1_105_c](https://github.com/user-attachments/assets/f993936a-df8a-4322-994b-414a953e3dc9)
+
 ##Unmask Protocol Backend
 
-A privacy-first,  complex and sophisticated multi-chain backend for the Unmask Protocol, utilizing multiple modular developer SDK’s..
-Overview
+A privacy-first,  complex and sophisticated multi-chain backend utilizing multiple modular developer SDK’s for the Unmask Protocol
+
+#Overview
 
 The Unmask Protocol backend is a complete security and identity verification platform for blockchain applications. It provides advanced fraud detection through Web3DNA fingerprinting, secure data vaulting, and an investigative workflow system with court-admissible chain of custody tracking for digital evidence.
 
