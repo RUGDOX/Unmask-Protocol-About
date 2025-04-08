@@ -1,6 +1,12 @@
 # Unmask-Protocol-About
 
-![22522092-DA5D-413B-9CA7-938816E357D9_1_201_a](https://github.com/user-attachments/assets/9d6996a6-27b9-4efb-b559-917df8e77cbd)
+
+![image](https://github.com/user-attachments/assets/6d4099da-39fc-4d3c-8fc8-ad040b11a7b2)
+
+
+"An End-to-End Privacy-Focused Web3 Accountability Protocol"
+
+
 
 # Unmask Protocol: Backend
 
@@ -42,3 +48,6 @@ All SDKs are framework-agnostic and can be used in any JavaScript environment (b
 All SDKs are currently under active development and are not ready for production use.  If you see this note still in a repo readme that mean that it is NOT considered stable.  
 #USE AT YOUR OWN RISK.
 Each SDK repo will state the status of that specific SDK.  Please refer to each SDK repo's issues and/or discussions area for updates.
+
+
+![22522092-DA5D-413B-9CA7-938816E357D9_1_201_a](https://github.com/user-attachments/assets/9d6996a6-27b9-4efb-b559-917df8e77cbd)
